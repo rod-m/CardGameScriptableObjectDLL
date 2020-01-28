@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 902daf27a68434743a8bb7042ba2dba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6109856025545636863
+    second: tinydeck_0
+  - first:
+      213: -5962901067083703620
+    second: tinydeck_1
+  - first:
+      213: 2345720976686812125
+    second: tinydeck_2
+  - first:
+      213: 4958355332182890195
+    second: tinydeck_3
+  - first:
+      213: -1355903953478676993
+    second: tinydeck_4
+  - first:
+      213: -4718039301725662500
+    second: tinydeck_5
+  - first:
+      213: -8841473017555874465
+    second: tinydeck_6
+  - first:
+      213: 5790433424482272325
+    second: tinydeck_7
+  - first:
+      213: 6116588399167737937
+    second: tinydeck_8
+  - first:
+      213: -2426951212948684654
+    second: tinydeck_9
+  - first:
+      213: 5485989538465753181
+    second: tinydeck_10
+  - first:
+      213: 266868154195342906
+    second: tinydeck_11
+  - first:
+      213: 6417125118624364201
+    second: tinydeck_12
+  - first:
+      213: -9042939545146208668
+    second: tinydeck_13
+  - first:
+      213: 5141324469720002701
+    second: tinydeck_14
+  - first:
+      213: -4434490595001290932
+    second: tinydeck_15
+  - first:
+      213: -8350558708409499306
+    second: tinydeck_16
+  - first:
+      213: 4619735368225056053
+    second: tinydeck_17
+  - first:
+      213: 7605953746116475020
+    second: tinydeck_18
+  - first:
+      213: 4434173745882411518
+    second: tinydeck_19
+  - first:
+      213: 291264195448492860
+    second: tinydeck_20
+  - first:
+      213: 7164711699492648417
+    second: tinydeck_21
+  - first:
+      213: 9168037560884524325
+    second: tinydeck_22
+  - first:
+      213: 4114558593412352756
+    second: tinydeck_23
+  - first:
+      213: 5816797447972625317
+    second: tinydeck_24
+  - first:
+      213: -9083547632391804684
+    second: tinydeck_25
+  - first:
+      213: 7872042806505476446
+    second: tinydeck_26
+  - first:
+      213: -674770963541099388
+    second: tinydeck_27
+  - first:
+      213: 2048959526978580683
+    second: tinydeck_28
+  - first:
+      213: 639742055180073651
+    second: tinydeck_29
+  - first:
+      213: 94166295016145045
+    second: tinydeck_30
+  - first:
+      213: 2702454282381021013
+    second: tinydeck_31
+  - first:
+      213: 4448474101606369046
+    second: tinydeck_32
+  - first:
+      213: -7021506224729088279
+    second: tinydeck_33
+  - first:
+      213: -2561603987355291792
+    second: tinydeck_34
+  - first:
+      213: -2114812797677816062
+    second: tinydeck_35
+  - first:
+      213: 779164555983163415
+    second: tinydeck_36
+  - first:
+      213: 2932132844069605184
+    second: tinydeck_37
+  - first:
+      213: 4849324284943957018
+    second: tinydeck_38
+  - first:
+      213: 9216247436878723228
+    second: tinydeck_39
+  - first:
+      213: -7731480521962298213
+    second: tinydeck_40
+  - first:
+      213: -5307920799113507699
+    second: tinydeck_41
+  - first:
+      213: 3695830750229582656
+    second: tinydeck_42
+  - first:
+      213: 4177288779000814965
+    second: tinydeck_43
+  - first:
+      213: 7911189170352968710
+    second: tinydeck_44
+  - first:
+      213: 9115528917180278342
+    second: tinydeck_45
+  - first:
+      213: 6062011339569730640
+    second: tinydeck_46
+  - first:
+      213: 413323903217208566
+    second: tinydeck_47
+  - first:
+      213: -5422000149278292636
+    second: tinydeck_48
+  - first:
+      213: -6710313452899143712
+    second: tinydeck_49
+  - first:
+      213: 8027622465320244223
+    second: tinydeck_50
+  - first:
+      213: 7185834944699053587
+    second: tinydeck_51
+  - first:
+      213: 5506078342434801588
+    second: tinydeck_52
+  - first:
+      213: 2910654166791956632
+    second: tinydeck_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tinydeck_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8045a5594b9b46aa9c212f0491b5616
+      internalID: 6109856025545636863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f75643dcaaa4eddb5f414fcd26d903
+      internalID: -5962901067083703620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2bf6d6a334440ff96d57291ba7a52d
+      internalID: 2345720976686812125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b7d7ca689794990a2373cd0e0724a6
+      internalID: 4958355332182890195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98207aeff71604fbebefc80e5413173d
+      internalID: -1355903953478676993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2802f3c4f42d041bc916ec3c61f4dfbf
+      internalID: -4718039301725662500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4a8d7b6121400c8ed1389caf5b2ca
+      internalID: -8841473017555874465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d898c612d63484f98905dc5bb1b51ebf
+      internalID: 5790433424482272325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f741ef6d0f84c4c509b7b03e0a980968
+      internalID: 6116588399167737937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7456a4ed2d52246c2a7dd7c455813d2e
+      internalID: -2426951212948684654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed4d6809b5042dbb843f73391559c3
+      internalID: 5485989538465753181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6be3fbbba3e434f9d3b33aec06d8ef
+      internalID: 266868154195342906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 155
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a533f75e03a4ccfacb52bef2eeb40b
+      internalID: 6417125118624364201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb7277322bc94d729748f0b808802a1
+      internalID: -9042939545146208668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feed0043fc676447688a5ca3bd978b8c
+      internalID: 5141324469720002701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef3bbcc20ab463da42ef2a654addae
+      internalID: -4434490595001290932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88790f2f7b5fa4fe8a4a884dd14afaa3
+      internalID: -8350558708409499306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af4ddc9c003401288bb1e0471811c5
+      internalID: 4619735368225056053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf111fcf90b4bc9a1e0aa4bc62250d
+      internalID: 7605953746116475020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d71ff7763f458494e27a064cbd8ce
+      internalID: 4434173745882411518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce588241952d6455fb9cbe8fe709aff4
+      internalID: 291264195448492860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28bcc74bdf74ef0b20cc96ae2ad97e
+      internalID: 7164711699492648417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbaeae0d56fd4447930113736385c6a
+      internalID: 9168037560884524325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e57b5a8bad6b473bb1dfcdc6ed2fb02
+      internalID: 4114558593412352756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2906333300948bdb3167c67ebb2e2c
+      internalID: 5816797447972625317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 117
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3895226b8c5f469a87e5961cfa815c0
+      internalID: -9083547632391804684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8785d1f5ff5443e79134fa976401904
+      internalID: 7872042806505476446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623f3d6af31d64b4c8412fbbdea4f882
+      internalID: -674770963541099388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0a91fe6364140d0b335f1eaa7639bd
+      internalID: 2048959526978580683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f664879c4fa749098c62c640a5735b9
+      internalID: 639742055180073651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5cf95a59ce47529fc40fb2c6d4698
+      internalID: 94166295016145045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26467522ef6341969599fcc7582855b
+      internalID: 2702454282381021013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7c70ed99a544fd9972ee191039563
+      internalID: 4448474101606369046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea671ca67c23f4f93a666b4203c94277
+      internalID: -7021506224729088279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f79d658b44e0410898cfacb27bef804
+      internalID: -2561603987355291792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705a1bdec4f3f4a35a4557264701c0bc
+      internalID: -2114812797677816062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a3345ac2ed4159aebe891f81ff8f1
+      internalID: 779164555983163415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_37
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd9c20970c748c2957111c04cb4254
+      internalID: 2932132844069605184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7799cc85b9493bb301843920c19e1
+      internalID: 4849324284943957018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975484a8192f46058bcedfcb5e47a46
+      internalID: 9216247436878723228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7e73e602234138a1fb55b771f5b93
+      internalID: -7731480521962298213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0618ea7aa6e434978ad3fb210e127116
+      internalID: -5307920799113507699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8529b50660bd42babe7249953b8a4dc
+      internalID: 3695830750229582656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a4c5bc0fc64df19de54f30f67d5c7
+      internalID: 4177288779000814965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461ea6a95a54e4bbba04beceef7a17cd
+      internalID: 7911189170352968710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9980615bfc9a047748ec08e42b90c50a
+      internalID: 9115528917180278342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fa89535d8844207bef9b0595d8fc74
+      internalID: 6062011339569730640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37640f86c93c640709d24edb93a55eee
+      internalID: 413323903217208566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb0abe85af640d4a300762ff243e79
+      internalID: -5422000149278292636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a21b9678f414d77b5ab8725e7b02f3
+      internalID: -6710313452899143712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_50
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e89aa0898e4c8ea4c011d3278cb6d
+      internalID: 8027622465320244223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_51
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6fa9e210c44f6ea570b00912a95ab
+      internalID: 7185834944699053587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e993907bc8c46a99dc732c5fcaa513
+      internalID: 5506078342434801588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinydeck_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79615b632cebf4e18a36ac01fbc23fdf
+      internalID: 2910654166791956632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e76b1ae6ec28b40a88ab6cdc80f197b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

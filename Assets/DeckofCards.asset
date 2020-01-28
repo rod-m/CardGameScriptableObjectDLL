@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2057010938, guid: f6e586df2ed974a28844efb280af39d0, type: 3}
+  m_Name: DeckofCards
+  m_EditorClassIdentifier: 
+  deck:
+  - name: Ace of Clubs
+    face: 1
+    suit: 0
+  - name: Two of Clubs
+    face: 2
+    suit: 0
+  - name: Three of Clubs
+    face: 3
+    suit: 0
+  - name: Four of Clubs
+    face: 4
+    suit: 0
+  - name: Five of Clubs
+    face: 5
+    suit: 0
+  - name: Six of Clubs
+    face: 6
+    suit: 0
+  - name: Seven of Clubs
+    face: 7
+    suit: 0
+  - name: Eight of Clubs
+    face: 8
+    suit: 0
+  - name: Nine of Clubs
+    face: 9
+    suit: 0
+  - name: Ten of Clubs
+    face: 10
+    suit: 0
+  - name: Ten of Clubs
+    face: 10
+    suit: 0
+  - name: Ten of Clubs
+    face: 10
+    suit: 0
+  - name: Ten of Clubs
+    face: 10
+    suit: 0
+  - name: Ace of Spades
+    face: 1
+    suit: 1
+  - name: Two of Spades
+    face: 2
+    suit: 1
+  - name: Three of Spades
+    face: 3
+    suit: 1
+  - name: Four of Spades
+    face: 4
+    suit: 1
+  - name: Five of Spades
+    face: 5
+    suit: 1
+  - name: Six of Spades
+    face: 6
+    suit: 1
+  - name: Seven of Spades
+    face: 7
+    suit: 1
+  - name: Eight of Spades
+    face: 8
+    suit: 1
+  - name: Nine of Spades
+    face: 9
+    suit: 1
+  - name: Ten of Spades
+    face: 10
+    suit: 1
+  - name: Ten of Spades
+    face: 10
+    suit: 1
+  - name: Ten of Spades
+    face: 10
+    suit: 1
+  - name: Ten of Spades
+    face: 10
+    suit: 1
+  - name: Ace of Hearts
+    face: 1
+    suit: 2
+  - name: Two of Hearts
+    face: 2
+    suit: 2
+  - name: Three of Hearts
+    face: 3
+    suit: 2
+  - name: Four of Hearts
+    face: 4
+    suit: 2
+  - name: Five of Hearts
+    face: 5
+    suit: 2
+  - name: Six of Hearts
+    face: 6
+    suit: 2
+  - name: Seven of Hearts
+    face: 7
+    suit: 2
+  - name: Eight of Hearts
+    face: 8
+    suit: 2
+  - name: Nine of Hearts
+    face: 9
+    suit: 2
+  - name: Ten of Hearts
+    face: 10
+    suit: 2
+  - name: Ten of Hearts
+    face: 10
+    suit: 2
+  - name: Ten of Hearts
+    face: 10
+    suit: 2
+  - name: Ten of Hearts
+    face: 10
+    suit: 2
+  - name: Ace of Diamonds
+    face: 1
+    suit: 3
+  - name: Two of Diamonds
+    face: 2
+    suit: 3
+  - name: Three of Diamonds
+    face: 3
+    suit: 3
+  - name: Four of Diamonds
+    face: 4
+    suit: 3
+  - name: Five of Diamonds
+    face: 5
+    suit: 3
+  - name: Six of Diamonds
+    face: 6
+    suit: 3
+  - name: Seven of Diamonds
+    face: 7
+    suit: 3
+  - name: Eight of Diamonds
+    face: 8
+    suit: 3
+  - name: Nine of Diamonds
+    face: 9
+    suit: 3
+  - name: Ten of Diamonds
+    face: 10
+    suit: 3
+  - name: Ten of Diamonds
+    face: 10
+    suit: 3
+  - name: Ten of Diamonds
+    face: 10
+    suit: 3
+  - name: Ten of Diamonds
+    face: 10
+    suit: 3
